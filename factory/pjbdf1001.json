@@ -1,0 +1,9 @@
+{
+	"name": "pjbdf1001",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ebfe53ae-4ff4-4e58-8e93-ea3cad23ec10",
+		"tenantId": "8d14064d-26e9-4c0d-a861-427e745aa727"
+	}
+}
